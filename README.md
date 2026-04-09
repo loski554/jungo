@@ -50,6 +50,8 @@ Les warns déclenchent automatiquement des sanctions progressives :
 - **3 warns** → Mute automatique de 2h
 - **5 warns** → Ban automatique du serveur
 
+![/help](./screeshots/help.png)
+
 
 ## Installation
 ### Prérequis

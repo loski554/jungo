@@ -1,6 +1,5 @@
 # Jungo — Bot de modération Discord
 Jungo est un bot Discord de modération et de sécurité, conçu pour la gestion administrative d'un serveur. Il permet d'automatiser les sanctions, de tracer les actions des modérateurs et de centraliser les logs dans un channel dédié.
-> Projet réalisé dans le cadre du BTS SIO option SISR.
 
 
 ## Architecture du projet
@@ -58,7 +57,8 @@ Les warns déclenchent automatiquement des sanctions progressives :
 - Python 3.14+
 - Un bot Discord créé sur le [Portail Développeur Discord](https://discord.com/developers/applications)
 - Les intentions `SERVER MEMBERS` et `MESSAGE CONTENT` activées sur le portail
-- Inviter le bot sur votre serveur : [LIEN](https://discord.com/oauth2/authorize?client_id=1478786956446928977&permissions=1099511635968&integration_type=0&scope=bot)
+
+> Le bot n'est pas encore hébergé, donc pour le tester vous devrez le lancer en local.
 
 ### Étapes
 **1. Cloner le projet**

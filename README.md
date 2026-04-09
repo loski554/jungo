@@ -39,6 +39,8 @@ Jungo/
 | `/setlogchannel` | Définit le channel de logs du serveur | Administrateur |
 | `/userinfo` | Affiche les informations d'un membre (rôles, dates, warns) | Tous |
 
+![/help](./screeshots/help.png)
+
 ### Événements automatiques
 | Événement | Action |
 |---|---|
@@ -49,8 +51,6 @@ Jungo/
 Les warns déclenchent automatiquement des sanctions progressives :
 - **3 warns** → Mute automatique de 2h
 - **5 warns** → Ban automatique du serveur
-
-![/help](./screeshots/help.png)
 
 
 ## Installation
